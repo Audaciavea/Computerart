@@ -1,0 +1,13 @@
+body,html{
+  background: #000000;
+  margin: 0;
+  height: 100vh;
+  overflow: hidden;
+}
+#c{
+  background:#030303;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
